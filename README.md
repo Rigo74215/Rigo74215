@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi, I'm [Reagan Galo] 👋
+# Hi, I'm Reagan Galo.
 
 CS Student | Java Learner | Backend & Security Enthusiast
 
@@ -9,7 +9,7 @@ I'm currently transitioning from C++ to Java through a structured 16-week learni
 
 ## 🎯 Current Focus
 
-- **Week [3]/16**: [Current topic - e.g., Object-Oriented Programming]
+- **Week [3]/16**: Current topic - e.g., Object-Oriented Programming
 - Building core Java skills via University of Helsinki MOOC
 - Exploring cybersecurity basics (confidentiality, integrity, availability)
 - Preparing for Spring Boot and framework learning
@@ -36,7 +36,6 @@ I'm currently transitioning from C++ to Java through a structured 16-week learni
 
 ## 🔨 Projects
 
-*Coming soon as I build through my learning journey...*
 
 ## 📈 GitHub Stats
 
